@@ -1,0 +1,32 @@
+# Vendor directory (Composer dependencies)
+/vendor/
+
+# Environment variables file
+.env
+.env.backup
+
+# Composer lock file (if you only want to track composer.json, though generally it is recommended to commit this)
+# composer.lock
+
+# Log files and temporary files
+*.log
+*.tmp
+/tmp/
+
+# IDE and OS specific files
+.idea/         # PhpStorm/IntelliJ
+.vscode/       # VS Code
+.DS_Store      # macOS
+npm-debug.log*
+yarn-error.log*
+
+# Test coverage and cache directories
+.phpunit.result.cache
+/coverage/
+
+# Build artifacts (if any)
+/build/
+
+# Sensitive configuration files (project specific)
+# config.php
+# database_credentials.php
