@@ -10,8 +10,21 @@
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue.svg)](https://www.php.net/)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0%2B-orange.svg)](https://www.mysql.com/)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red.svg?logo=youtube)]([YOUR_YOUTUBE_VIDEO_URL](https://youtu.be/K-Ts-NFR62o?si=zPEPyqhIbZWpAgUT))
 
 [Features](#key-features) • [Demo](#demo) • [Installation](#installation) • [Documentation](#documentation) • [Contributing](#contributing)
+
+---
+
+## 🎥 Video Demo
+
+Watch the complete walkthrough of StreamIt features:
+
+[![StreamIt Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_VIDEO_URL)
+
+**🎬 [Watch Full Demo on YouTube →](YOUR_YOUTUBE_VIDEO_URL)**
+
+*Duration: X minutes | Covers: User features, Admin dashboard, Subscription system, Video upload workflow*
 
 </div>
 
@@ -48,6 +61,18 @@ StreamIt is a professional-grade video streaming platform designed to empower ed
 - 🎬 **Content Creators**: Monetize premium content with subscriptions
 - 🔒 **Secure**: Enterprise-grade security with role-based access control
 - 💰 **Cost-Effective**: Self-hosted solution eliminating third-party fees
+
+### 🎥 Quick Demo
+
+Watch our comprehensive video demonstration showcasing all features:
+
+<div align="center">
+
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_VIDEO_URL)
+
+*Click to watch on YouTube*
+
+</div>
 
 ---
 
@@ -635,6 +660,7 @@ Full Stack Developer
 - 📧 Email: [kendrevitthal225@gmail.com](mailto:kendrevitthal225@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/vitthalkendre](https://www.linkedin.com/in/vitthalkendre/)
 - 🐙 GitHub: [@vitthalkendre29](https://github.com/vitthalkendre29)
+- 🎥 YouTube Demo: [Watch StreamIt Demo](YOUR_YOUTUBE_VIDEO_URL)
 - 🌐 Portfolio: [Coming Soon]
 
 ### Support
@@ -642,6 +668,7 @@ Full Stack Developer
 For technical support or business inquiries:
 - 📧 Technical Support: vitthalkendre.sits.comp@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/vitthalkendre29/Streamit/issues)
+- 🎥 Video Tutorials: [YouTube Channel](YOUR_YOUTUBE_CHANNEL_URL)
 
 ---
 

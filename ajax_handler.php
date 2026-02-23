@@ -83,7 +83,7 @@ function toggleLike() {
         }
         
         // Get updated like count
-        $stmt = $pdo->prepare("SELECT likes FROM videos WHERE id = ?");
+        $stmt = $pdo->prepare("SELECT COUNT(*) as likes FROM video_reactions WHERE video_id = ?");
         $stmt->execute([$videoId]);
         $video = $stmt->fetch();
         
