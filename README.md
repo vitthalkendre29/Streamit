@@ -22,7 +22,7 @@ Watch the complete walkthrough of StreamIt features:
 
 [![StreamIt Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](YOUR_YOUTUBE_VIDEO_URL)
 
-**🎬 [Watch Full Demo on YouTube →](YOUR_YOUTUBE_VIDEO_URL)**
+**🎬 [Watch Full Demo on YouTube →](https://youtu.be/K-Ts-NFR62o?si=zPEPyqhIbZWpAgUT)**
 
 *Duration: X minutes | Covers: User features, Admin dashboard, Subscription system, Video upload workflow*
 
